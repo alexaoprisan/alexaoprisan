@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alexa</h1>
-<h3 align="center">A passionate frontend developer from Vienna</h3>
+<h3 align="center">A passionate Web Developer from Vienna</h3>
 
 - 🎓 UpLeveled bootcamp graduate
 - 🔭 I’m currently working on [Pawstagram](https://github.com/alexaoprisan/react-native-pawstagram.git) an APP where Pets(Owners) can connect.
