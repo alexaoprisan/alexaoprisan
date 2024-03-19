@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from Vienna</h3>
 
 - 🎓 UpLeveled bootcamp graduate
-- 🔭 I’m currently working on [Pawstagram](https://github.com/alexaoprisan/react-native-pawstagram.git) an APP where Pets(Owners) can connect.
+- 🔭 I’m currently working on [Pawstagram](https://github.com/alexaoprisan/react-native-pawstagram.git) where Pets(Owners) can connect.
 - 🛠 I’m developing using React, React Native, TypeScript, JavaScript, HTML, CSS/SCSS, Tailwind, Node.js, REST Apis, PostgreSQL and more but I’m excited and willing to learn more technologies.
 - ✨ I'm passionate about Frontend and clean UI/UX design
 - 📧 How to reach me: alexaoprisan@gmail.com
