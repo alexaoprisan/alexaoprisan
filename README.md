@@ -1,4 +1,4 @@
-### Hi there 👋 I'M Alexa
+### Hi there 👋 I'm Alexa
 
 
 🎓 UpLeveled bootcamp graduate
